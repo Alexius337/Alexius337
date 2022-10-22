@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alexius337
 - 👀 I’m interested in QA, testing, and web development
-- 🌱 I’m currently learning JavaScript automation frameworks
-- 💞️ I’m looking to collaborate on cool web projects
+- 🌱 I’m currently expanding my tech stack
+- 💞️ I’m looking to learn new tools and build cool projects
 
 
 <!---
